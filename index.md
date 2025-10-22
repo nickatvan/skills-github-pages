@@ -2,4 +2,6 @@
 title: Welcome to my blog
 ---
 
-As I added in main, blogging of my study content helps learning.
+
+Daily blog of my learning helps improving the process. It enhances my github skills and allows back track of knowledge.
+
